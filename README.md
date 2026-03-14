@@ -1,54 +1,70 @@
 # Hi 👋 I'm Kavya Desai
 
 🎓 B.E. Computer Science and Engineering (3rd Year)  
-💻 Aspiring Full Stack Developer with strong backend development skills using Java and Spring Boot.
+💻 Aspiring Full Stack Developer | Java Spring Boot Backend Developer  
+🚀 Passionate about building scalable backend systems and REST APIs
 
 ---
 
 ## 🚀 About Me
 
-I am passionate about building scalable backend systems and RESTful APIs using modern Java technologies. I enjoy working on real-world projects that involve backend architecture, database design, and API development. Currently, I am focusing on improving my skills in full stack development while strengthening my expertise in backend engineering.
+I am a Computer Science engineering student who enjoys building backend systems using modern Java technologies. My focus is on creating scalable REST APIs, integrating databases, and developing full stack applications with strong backend architecture. I am currently looking for internship opportunities to apply my development skills in real-world projects.
 
 ---
 
 ## 🛠 Tech Stack
 
-Java  
-Spring Boot  
-PostgreSQL  
-REST APIs  
-Docker  
-Git & GitHub  
-HTML  
-CSS  
-JavaScript  
-PHP  
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,git,github,html,css,js,php" />
+</p>
 
 ---
 
 ## 📌 Current Focus
 
-• Backend development using Spring Boot  
-• Building REST APIs  
-• Docker containerization  
+• Building backend applications using Spring Boot  
+• Developing RESTful APIs  
+• Learning Docker for containerized deployment  
 • Improving full stack development skills  
 
 ---
 
 ## 📂 Featured Project
 
-### Course Management System
+### 📚 Course Management System
 
-Backend system built using **Java Spring Boot and PostgreSQL** that manages courses and student enrollments through RESTful APIs.
+Backend application built using **Java Spring Boot and PostgreSQL**.
 
-Tech Used:  
-Java • Spring Boot • PostgreSQL • Docker • REST APIs
+Features:
+- Course creation and management
+- Student enrollment system
+- REST API architecture
+- PostgreSQL database integration
+- Docker container support
+
+---
+
+## 📊 GitHub Stats
+
+![Kavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=KavyaDesai18&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=KavyaDesai18&theme=tokyonight)
+
+---
+
+## 📈 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KavyaDesai18&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🎯 Career Goal
 
-To become a skilled **Full Stack Developer** with strong backend expertise and contribute to building scalable software systems.
+To become a skilled **Full Stack Developer** with strong expertise in **Java Spring Boot backend development** and contribute to building scalable software systems.
 
 ---
 
@@ -59,4 +75,4 @@ LinkedIn: (Add your LinkedIn profile link here)
 
 ---
 
-⭐ Always learning and building new projects.
+⭐ Always learning, building, and improving as a developer.
